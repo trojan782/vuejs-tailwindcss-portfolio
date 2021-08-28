@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import Home from '../views/Home.vue';
-
+import Blog from '../views/Blog.vue'
 const routes = [
 	{
 		path: '/',
@@ -8,6 +8,14 @@ const routes = [
 		component: Home,
 		meta: {
 			title: 'Stoman - Home',
+		},
+	},
+	{
+		path: '/blog',
+		name: 'Blog',
+		component: Blog,
+		meta: {
+			title: 'Jacobs David - Blog',
 		},
 	},
 	{

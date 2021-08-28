@@ -12,7 +12,7 @@
 			<p
 				class="mt-4 text-2xml sm:text-4xl text-center sm:text-left font-semibold leading-none text-gray-400"
 			>
-				A Full-Stack Developer(Back-end Specialized)
+				A Full-Stack Developer, Specialized On BackEnd.
 			</p>
 			<div class="flex justify-center sm:block">
 				<a
@@ -23,7 +23,7 @@
 						data-feather="arrow-down-circle"
 						class="ml-0 sm:ml-1 mr-2 sm:mr-3 w-5 sm:w-6"
 					></i>
-					<span class="text-sm sm:text-lg">Download CV</span></a
+					<span class="text-sm sm:text-lg">Request CV</span></a
 				>
 			</div>
 		</div>
