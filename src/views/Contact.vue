@@ -116,10 +116,10 @@
 						<p
 							class="text-lg mb-4 text-ternary-dark dark:text-ternary-light"
 						>
-							email@example.com
+							davidjacobs522@gmail.com
 						</p>
 					</li>
-					<li class="flex">
+					<li class="flex" v-if="phoneNo">
 						<i
 							data-feather="phone"
 							class="w-5 text-gray-500 dark:text-gray-400 mr-4"
@@ -127,9 +127,10 @@
 						<p
 							class="text-lg mb-4 text-ternary-dark dark:text-ternary-light"
 						>
-							+93 7888 888 88
+							+234 81484 40887
 						</p>
 					</li>
+					<p class="text-purple-600 cursor-pointer" @click="togglePhone()">{{ toggleText }}</p>
 				</ul>
 			</div>
 		</div>
@@ -141,7 +142,9 @@ import feather from 'feather-icons';
 
 export default {
 	data: () => {
-		return {};
+		return {
+			phoneNo: false
+		};
 	},
 	mounted() {
 		feather.replace();
@@ -149,6 +152,15 @@ export default {
 	updated() {
 		feather.replace();
 	},
-	methods: {},
+	methods: {
+		togglePhone() {
+			this.phoneNo = !this.phoneNo
+		}
+	},
+	computed: {
+		toggleText() {
+			return this.phoneNo ? 'Hide Number' : 'Show Number'
+		}
+	}
 };
 </script>
