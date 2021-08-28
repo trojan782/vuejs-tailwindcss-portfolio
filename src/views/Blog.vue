@@ -1,5 +1,7 @@
 <template>
-  <div></div>
+  <div>
+  <h1>Blog Coming Soon...</h1>
+  </div>
 </template>
 
 <script>
