@@ -8,35 +8,28 @@
 			</p>
 			<ul class="flex gap-4 sm:gap-8">
 				<a
-					href="https://github.com/NangialaiStoman"
+					href="https://github.com/trojan782"
 					target="__blank"
 					class="text-gray-400 hover:text-indigo-500 dark:hover:text-indigo-400 cursor-pointer rounded-lg bg-gray-50 dark:bg-ternary-dark hover:bg-gray-100 shadow-sm∫ p-4"
 				>
 					<i data-feather="github" class="w-6 sm:w-8 h-6 sm:h-8"></i>
 				</a>
 				<a
-					href="https://twitter.com/NangialaiStoman"
+					href="https://twitter.com/TrojanCodes"
 					target="__blank"
 					class="text-gray-400 hover:text-indigo-500 dark:hover:text-indigo-400 cursor-pointer rounded-lg bg-gray-50 dark:bg-ternary-dark hover:bg-gray-100 shadow-sm∫ p-4"
 				>
 					<i data-feather="twitter" class="w-6 sm:w-8 h-6 sm:h-8"></i>
 				</a>
 				<a
-					href="https://instagram.com/NangialaiStoman"
+					href="https://www.linkedin.com/in/david-jacobs-497390194/"
 					target="__blank"
 					class="text-gray-400 hover:text-indigo-500 dark:hover:text-indigo-400 cursor-pointer rounded-lg bg-gray-50 dark:bg-ternary-dark hover:bg-gray-100 shadow-sm∫ p-4"
 				>
 					<i
-						data-feather="instagram"
+						data-feather="linkedin"
 						class="w-6 sm:w-8 h-6 sm:h-8"
 					></i>
-				</a>
-				<a
-					href="https://behance.net/NangialaiStoman"
-					target="__blank"
-					class="text-gray-400 hover:text-indigo-500 dark:hover:text-indigo-400 cursor-pointer rounded-lg bg-gray-50 dark:bg-ternary-dark hover:bg-gray-100 shadow-sm∫ p-4"
-				>
-					<i data-feather="feather" class="w-6 sm:w-8 h-6 sm:h-8"></i>
 				</a>
 			</ul>
 		</div>
@@ -44,10 +37,10 @@
 			<div class="text-lg text-ternary-dark dark:text-ternary-light">
 				&copy; Copyright 2021.
 				<a
-					href="http://stoman.me"
+					href="https://github.com/trojan782"
 					target="__blank"
 					class="text-secondary-dark dark:text-secondary-light font-medium"
-					>Stoman</a
+					>TrojanCodes</a
 				>
 			</div>
 		</div>
