@@ -73,6 +73,11 @@
 					class="block text-left text-lg font-medium text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light  md:mx-2 mb-2 sm:py-2"
 					>Contact</router-link
 				>
+				<router-link
+					to="/blog"
+					class="block text-left text-lg font-medium text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light  md:mx-2 mb-2 sm:py-2"
+					>Blog</router-link
+				>
 			</div>
 			<div
 				class="hidden sm:flex justify-between items-center flex-col md:flex-row"
