@@ -86,7 +86,7 @@
 			</div>
 		</div>
 		<!--Form ends -->
-		
+
 		<div class="w-full sm:w-1/2">
 			<div class="text-left max-w-xl px-6">
 				<h2
@@ -95,15 +95,17 @@
 					Contact details
 				</h2>
 				<ul class="">
+				<!--Icon-->
 					<li class="flex">
 						<i
 							data-feather="map-pin"
 							class="w-5 text-gray-500 dark:text-gray-400 mr-4"
 						></i>
+				<!--Icon-->
 						<p
 							class="text-lg mb-4 text-ternary-dark dark:text-ternary-light"
 						>
-							Wazir Akbar Khan, Kabul, Afghanistan
+							Abuja
 						</p>
 					</li>
 					<li class="flex">
