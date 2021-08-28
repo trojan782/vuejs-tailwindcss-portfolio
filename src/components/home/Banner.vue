@@ -7,12 +7,12 @@
 			<h1
 				class="text-3xl sm:text-5xl text-center sm:text-left font-semibold text-ternary-dark dark:text-primary-light uppercase"
 			>
-				Hi, Iam Stoman
+				Hi, Iam Jacobs David
 			</h1>
 			<p
 				class="mt-4 text-2xml sm:text-4xl text-center sm:text-left font-semibold leading-none text-gray-400"
 			>
-				A Full-Stack Developer & Design Enthusiast
+				A Full-Stack Developer(Back-end Specialized)
 			</p>
 			<div class="flex justify-center sm:block">
 				<a
