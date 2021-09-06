@@ -18,6 +18,14 @@ const routes = [
 			title: 'Jacobs David - Blog',
 		},
 	},
+	// {
+	// 	path: '/search',
+	// 	name: 'Search',
+	// 	component: Search,
+	// 	meta: {
+	// 		title: 'Search'
+	// 	}
+	// },
 	{
 		path: '/about',
 		name: 'About',
